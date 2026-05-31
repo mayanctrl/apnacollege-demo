@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my practice reppository.<br>
-author - mayan khobragade
+author - mayan (EE24TCS001)
